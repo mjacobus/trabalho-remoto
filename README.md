@@ -6,6 +6,11 @@ Trabalho remoto
 
 - http://remoto.cc/
 - https://github.com/lerrua/remote-jobs-brazil
+- https://www.upwork.com/o/jobs/browse/?page=3&q=ruby%20remote
+- https://www.upwork.com/o/jobs/browse/?q=ruby
+- https://github.com/remoteintech/remote-jobs
+
+
 
 
 ## Recebendo dinheiro de fora
