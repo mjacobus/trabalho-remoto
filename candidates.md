@@ -1,10 +1,1 @@
-- [Backend Engineer, New Initiatives - Auth0](https://auth0.com/careers/job/backend-engineer-new-initiatives:1b464e8e-f118-49b4-a86f-271dfab6c338)
-- [Engineer, Analytics - Auth0](https://auth0.com/careers/job/engineer-analytics:e93f6e9f-dda3-4719-8a9b-cc2bf8dff5f6)
-- [Engineer, Auth0 Extend - Auth0](https://auth0.com/careers/job/engineer-auth-0-extend:275630d9-158f-427d-904e-d522e52ca6b2)
-- [Engineer, Core Runtime - Auth0](https://auth0.com/careers/job/engineer-core-runtime:43085e35-7650-49a9-8ca4-755ae670a1fc)
-- [Engineer, Developer Experience (DX) - Auth0](https://auth0.com/careers/job/engineer-developer-experience-dx:d82db161-b69b-4a59-bcb6-8aecf9bf6706)
-- [Engineer, Integrations - Auth0](https://auth0.com/careers/job/engineer-integrations:8ccfd002-74d2-4b5a-ae3b-7dc45b9ac9d9)
- - [Engineer, Multifactor & Anomaly Detection - Auth0](https://auth0.com/careers/job/engineer-multifactor-anomaly-detection:5a2d98a7-9bf1-4797-ae9a-f21dae11fae7)
- - [Engineer, Private SaaS Appliance Tooling - Auth0](https://auth0.com/careers/job/engineer-private-saa-s-appliance-tooling:9f2f7749-adb5-47f4-90f7-b25e2915c13f)
- - [Engineer, Customer Success Tools - Auth0](https://auth0.com/careers/job/engineer-customer-success-tools:28144879-ee27-41bc-ae30-fd3cba1f309a)
- 
+[Libring](https://libring.com/careers-developers/)
