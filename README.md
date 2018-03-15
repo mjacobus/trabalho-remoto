@@ -4,6 +4,15 @@ Trabalho remoto
 
 ## Jobs
 
+- [Stackoverflow](https://stackoverflow.com/jobs?q=-node.js+-android+-ios+-php&r=True&j=Permanent&lipi=urn%3ali%3apage%3ad_flagship3_messaging%3byC%2fmtwHcR9iJHQKHBFR5Mw%3d%3d)
+
+- [Startupers](https://www.startupers.com/jobs)
+- [We Work Remotely](https://weworkremotely.com)
+- [Who Is Hiring](https://whoishiring.io/)
+- [Github Ruby](https://jobs.github.com/positions?description=ruby&location=anywhere&full_time=on)
+- [Github Ruby - Anywhere](https://jobs.github.com/positions?location=anywhere&full_time=on)
+- [Living Social](https://docs.google.com/spreadsheets/d/1pFSi1Hir3JtujPFCvdC31gJATD_nnscSG3NCBJ3NgjE/edit?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging%3ByC%2FmtwHcR9iJHQKHBFR5Mw%3D%3D#gid=0)
+
 - http://remoto.cc/
 - https://github.com/lerrua/remote-jobs-brazil
 - https://www.upwork.com/o/jobs/browse/?page=3&q=ruby%20remote
